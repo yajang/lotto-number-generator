@@ -1,4 +1,4 @@
-#Lotto Number Generator
+# Lotto Number Generator
 
 C언어로 만든 로또 번호 생성기입니다.
 
